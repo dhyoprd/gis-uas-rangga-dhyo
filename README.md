@@ -31,7 +31,7 @@ Sistem Informasi Geografis (SIG) berbasis Laravel ini dikembangkan untuk memvisu
 
 1. **Clone repository**
    ```bash
-   git clone [https://github.com/dhyoprd/gis-uas-rangga-dhyo.git](https://github.com/dhyoprd/gis-uas-rangga-dhyo)
+   git clone https://github.com/dhyoprd/gis-uas-rangga-dhyo
    cd repo-sig
    ```
 
